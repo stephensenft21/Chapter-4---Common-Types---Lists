@@ -1,0 +1,11 @@
+c:\Users\NSS31\workspaceC-35\listinfo\bin\Debug\netcoreapp3.0\listinfo.exe
+C:\Users\NSS31\workspaceC-35\listinfo\bin\Debug\netcoreapp3.0\listinfo.deps.json
+C:\Users\NSS31\workspaceC-35\listinfo\bin\Debug\netcoreapp3.0\listinfo.runtimeconfig.json
+C:\Users\NSS31\workspaceC-35\listinfo\bin\Debug\netcoreapp3.0\listinfo.runtimeconfig.dev.json
+c:\Users\NSS31\workspaceC-35\listinfo\bin\Debug\netcoreapp3.0\listinfo.dll
+c:\Users\NSS31\workspaceC-35\listinfo\bin\Debug\netcoreapp3.0\listinfo.pdb
+c:\Users\NSS31\workspaceC-35\listinfo\obj\Debug\netcoreapp3.0\listinfo.csprojAssemblyReference.cache
+c:\Users\NSS31\workspaceC-35\listinfo\obj\Debug\netcoreapp3.0\listinfo.AssemblyInfoInputs.cache
+c:\Users\NSS31\workspaceC-35\listinfo\obj\Debug\netcoreapp3.0\listinfo.AssemblyInfo.cs
+c:\Users\NSS31\workspaceC-35\listinfo\obj\Debug\netcoreapp3.0\listinfo.dll
+c:\Users\NSS31\workspaceC-35\listinfo\obj\Debug\netcoreapp3.0\listinfo.pdb
